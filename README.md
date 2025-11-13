@@ -1,3 +1,5 @@
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/IR%20Proximity/%5B%20Input%20%5D%20-%20IR%20Proximity%20Sensor.jpg?raw=true)
+
 # IR-Proximity-Sensor
 **The IR Proximity Sensor** is designed to detect nearby objects using infrared light reflection. It emits an infrared beam and detects the reflected signal from an object within a range of approximately 3 to 80 centimeters. The sensor outputs a digital signal (LOW or HIGH) when an object is detected.
 
